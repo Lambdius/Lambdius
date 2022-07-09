@@ -2,8 +2,7 @@
 
 - 🌱 I'm currently learning functional programming in Haskell.
 - 📝 I regularly solve tasks on [CodeWars](https://www.codewars.com/users/Lambdius) and write conspekts.
-- 📫 How to reach me [Telegram](https://t.me/javascriptizer01).
-- 🌍 I speak Russian (native), English (intermediate).
+- 📫 How to reach me: [Telegram](https://t.me/javascriptizer01), [Discord](https://discord.gg/pCtbebrDts).
 
 <div align="center">
 
