@@ -15,7 +15,7 @@
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Lambdius&theme=github_dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Lambdius&theme=github_dark&layout=compact&hide=HTML,CSS,Smarty)
 
 ---
 
